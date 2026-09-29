@@ -1,2 +1,2 @@
 # LaboratorioDevOps
-#Laboratorio realizado em aula de Computação em Nuvem e DevOps
+Laboratorio realizado em aula de Computação em Nuvem e DevOps
